@@ -7,6 +7,6 @@ it("Should say Jordan", ()=>{
 
     console.log('This test returns: ' + hello)
 
-    assert.equal(hello,"hello");
+    assert.equal(hello,"Jordan");
 })
 
